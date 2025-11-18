@@ -1,0 +1,1 @@
+SELECT * FROM "demodata.csv" WHERE 'turnover' IS NOT NULL LIMIT 10;

@@ -1,2 +1,2 @@
 # SQLs
-Notes and lessons about SQL.
+Notes, lessons, examples and projects in SQL.
