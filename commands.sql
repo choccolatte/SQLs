@@ -13,3 +13,5 @@ SELECT ROUND(AVG("rating"), 2) FROM "longlist";
 SELECT ROUND(AVG("rating"), 2) AS "average rating" FROM "longlist";
 
 SELECT COUNT(DISTINCT "publisher") FROM "longlist";
+
+SELECT "author", "books" FROM "longlist" LIMIT 100;
